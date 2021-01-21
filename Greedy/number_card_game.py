@@ -17,3 +17,10 @@ print(best_card(card_board))
         best_card_number = max(min_number_in_row, best_card_number)
 '''
 
+n, m = map(int, input().split())
+
+card_board = []
+for i in range(n):
+    card_board.append(list(map(int, input().split())))
+
+print(card_board)
