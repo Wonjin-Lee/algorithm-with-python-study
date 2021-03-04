@@ -16,5 +16,5 @@
 ### 4. [DFS](/DFS) / [BFS](/BFS)
 + 음료수 얼려 먹기 (BFS ver, DFS ver)
 + 미로 탈출 (BFS)
-### 5. [이진 탐색](/Binary Search)
+### 5. [이진 탐색](/BinarySearch)
 + 부품 찾기
